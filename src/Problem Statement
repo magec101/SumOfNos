@@ -1,0 +1,3 @@
+Write a C Program to calculate the sum of powers of n nos, where powers and n are given as input.
+For example, if power is 1 and n is 3, the program gives the output of 1+2+3.
+If power is 2 and n is 3, the program gives the output of 1 square +2 square + 3 square.
